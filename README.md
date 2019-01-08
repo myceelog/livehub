@@ -12,7 +12,11 @@ livehub 项目旨在于分享 Live Share 嘉宾发布的时间、主题、链接
 ## Latest live share
 
 【时间】2019-01-08 19:00
+
 【主题】Service Worker 在离线 Web App 中的应用
+
 【嘉宾】@Singsong
+
 【live link】https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E
+
 
