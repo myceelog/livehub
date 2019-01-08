@@ -6,8 +6,8 @@ Live Share 是微软推出的用于 Visual Studio / VSCode 的编程实时共享
 
 livehub 项目旨在于分享 Live Share 嘉宾发布的时间、主题、链接等信息。
 
-* 下载 https://visualstudio.microsoft.com/zh-hans/services/live-share/
-* 简介 https://docs.microsoft.com/en-us/visualstudio/liveshare/
+* 下载 [https://visualstudio.microsoft.com/zh-hans/services/live-share/](https://visualstudio.microsoft.com/zh-hans/services/live-share/)
+* 简介 [https://docs.microsoft.com/en-us/visualstudio/liveshare/](https://docs.microsoft.com/en-us/visualstudio/liveshare/)
 
 ## Latest live share
 
@@ -17,6 +17,6 @@ livehub 项目旨在于分享 Live Share 嘉宾发布的时间、主题、链接
 
 【嘉宾】@Singsong
 
-【live link】https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E
+【live link】[https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E](https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E)
 
 
