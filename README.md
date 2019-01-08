@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to LiveShare Pages
 
-You can use the [editor on GitHub](https://github.com/Ceelog/livehub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Live Share 是微软推出的用于 Visual Studio / VSCode 的编程实时共享插件，可以实现多人远程实时同步编辑代码、终端、调试信息、语音通话等功能。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+是结对编程、远程教学、异地协作等场景下的理想选择。
 
-### Markdown
+livehub 项目旨在于分享 Live Share 嘉宾发布的时间、主题、链接等信息。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 下载 https://visualstudio.microsoft.com/zh-hans/services/live-share/
+* 简介 https://docs.microsoft.com/en-us/visualstudio/liveshare/
 
-```markdown
-Syntax highlighted code block
+## Latest live share
 
-# Header 1
-## Header 2
-### Header 3
+【时间】2019-01-08 19:00
+【主题】Service Worker 在离线 Web App 中的应用
+【嘉宾】@Singsong
+【live link】https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ceelog/livehub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
