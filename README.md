@@ -1,10 +1,10 @@
-## Welcome to LiveShare Pages
+## Welcome to LiveHub
 
-Live Share 是微软推出的用于 Visual Studio / VSCode 的编程实时共享插件，可以实现多人远程实时同步编辑代码、终端、调试信息、语音通话等功能。
+Live Share 是微软推出的用于 Visual Studio / VSCode 的编程实时共享插件，可以实现多人远程实时同步编辑代码，共享终端、调试信息、语音通话等功能
 
-是结对编程、远程教学、异地协作等场景下的理想选择。
+它是结对编程、远程教学、异地协作等场景下的理想选择
 
-livehub 项目旨在于分享 Live Share 嘉宾发布的时间、主题、链接等信息。
+LiveHub （约码） 项目旨在于分享 Live Share 嘉宾发布的时间、主题、链接等信息
 
 * 下载 [https://visualstudio.microsoft.com/zh-hans/services/live-share/](https://visualstudio.microsoft.com/zh-hans/services/live-share/)
 * 简介 [https://docs.microsoft.com/en-us/visualstudio/liveshare/](https://docs.microsoft.com/en-us/visualstudio/liveshare/)
