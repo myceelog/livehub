@@ -20,3 +20,12 @@ LiveHub （约码） 项目旨在于分享 Live Share 嘉宾发布的时间、�
 【live link】[https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E](https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E)
 
 
+## Latest live share
+
+【时间】2019-06-20 19:00
+
+【主题】Service Worker 在离线 Web App 中的应用
+
+【嘉宾】@Singsong
+
+【live link】[https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E](https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E)
