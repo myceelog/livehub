@@ -20,7 +20,7 @@ LiveHub （约码） 项目旨在于分享 Live Share 嘉宾发布的时间、�
 【live link】[https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E](https://insiders.liveshare.vsengsaas.visualstudio.com/join?A68DEAEA17F944691CADACEC3F071E64218E)
 
 
-## Latest live share
+## History live share
 
 【时间】2019-06-20 19:00
 
